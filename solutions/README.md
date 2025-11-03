@@ -151,17 +151,3 @@ param.data -= lr * param.grad
 | Numerical stability is essential | LogSumExp avoids NaNs. |
 
 ---
-
-## Suggested Assets
-
-| File | Description |
-|------|-------------|
-| `autodiff_graph.png` | Visualization of computation graph |
-| `relu_derivative.png` | Shows ReLU and its gradient |
-| `grad_norms.png` | Gradient norm over epochs |
-
----
-
-
-
-**End of README**
